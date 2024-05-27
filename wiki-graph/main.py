@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 from grafo import Grafo
 import sys
-from biblioteca import lecturaArchivos, procesarEntrada, verificarParametros, procesarOperacion
+from wiki_graph import lecturaArchivos, procesarEntrada, verificarParametros, procesarOperacion
 from errores import *
 
 def main():
