@@ -9,7 +9,9 @@ y seguir los pasos especificados en wiki_parser.py.
 Para inicializar el ejemplo se debe abrir la terminal y ejecutar lo siguiente:
 
   cd <directorio_descarga>
+
   cd wiki-graph
+
   python3 main.py <nombre_archivo_ejemplo> #75000 0 5000 nodos
 
 
@@ -23,7 +25,7 @@ Operaciones básicas:
     Argentina -> Madres de Plaza de Mayo -> Barcelona
     Costo: 2
   
-- mas_importantes: Muestra las n páginas más importantes de la red en base al algoritmo PageRank, desarrollado por Larry Page y Sergey Brin, creadores de Google.
+- mas_importantes: Muestra las n páginas más importantes de la red en base al algoritmo PageRank, desarrollado por Larry   Page y Sergey Brin, creadores de Google.
   Ejemplo:
   
     mas_importantes 3
