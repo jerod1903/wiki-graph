@@ -5,14 +5,14 @@ De querer utilizar un modelo de Wikipedia más actualizado, se puede descargar e
 [https://wikimedia.bringyour.com/](https://dumps.wikimedia.org/backup-index.html)
 y seguir los pasos especificados en wiki_parser.py.
 ( El ejemplo corre sobre Python3)
-····················································································································································································
+
 Para inicializar el ejemplo se debe abrir la terminal y ejecutar lo siguiente:
 
   cd <directorio_descarga>
   cd wiki-graph
   python3 main.py <nombre_archivo_ejemplo> #75000 0 5000 nodos
 
-····················································································································································································
+
 Operaciones básicas:
 - listar_operaciones: Muestra una lista de las operaciones disponibles.
 
