@@ -1,4 +1,4 @@
-Wiki-graph es un módulo que contiene funciones de grafos, que permitan hacer distintas operaciones sobre un grafo que modela Internet, sin importar cuál es la red específica.
+Wiki-graph es un módulo que contiene funciones de grafos, que permiten hacer distintas operaciones sobre un grafo que modela Internet, sin importar cuál es la red específica.
 En el caso de prueba, se utiliza un recorrido BFS, por links, realizado desde la página de Wikipedia de Argentina (75000 páginas/nodos en el ejemplo grande, 5000 en el reducido).
 Dentro del repositorio hay también una implementación del Tipo de Dato Abstracto Grafo.
 De querer utilizar un modelo de Wikipedia más actualizado, se puede descargar el último dump desde acá:
